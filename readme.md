@@ -14,7 +14,7 @@ A lo largo de este curso, exploraremos una variedad de temas esenciales en la ge
 Además de proporcionar una sólida comprensión de los conceptos clave, el curso se centrará en proporcionar prácticas prácticas para garantizar que puedas aplicar lo que has aprendido en situaciones del mundo real.
 
 ## Horario de Clases
-Las clases se llevarán a cabo los días Lunes, Martes y Miércoles a través de la plataforma Zoom en el siguiente [link](https://cuaieed-unam.zoom.us/j/86403174968). Los enlaces a las sesiones de Zoom se compartirán en este repositorio antes de cada clase.
+Las clases se llevarán a cabo los días Lunes, Martes y Miércoles de 8 a 9 p.m a través de la plataforma Zoom en el siguiente [link](https://cuaieed-unam.zoom.us/j/86403174968). Los enlaces a las sesiones de Zoom se compartirán en este repositorio antes de cada clase.
 
 ## Cómo Usar Este Repositorio
 En este repositorio, encontrarás todos los materiales y recursos relacionados con el curso. Esto incluirá las diapositivas de las presentaciones, el código de ejemplo, las tareas, las soluciones de las tareas y cualquier material adicional que pueda ser útil.
